@@ -1,0 +1,9 @@
+Just run index.html to see the interactive visualization.
+
+Browser:
+If you are running it locally you may have a problem seeing the visualization with chrome (you 'll have to enable the file reading flag).It works fine with Firefox.
+It works fine on both of Chrome and firefox if it's hosted (localhost or web host).
+
+Feel free to contact me if you have any problem.
+
+chaieb.hassen@yahoo.com

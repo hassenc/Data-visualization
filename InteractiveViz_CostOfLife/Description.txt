@@ -1,0 +1,11 @@
+
+
+This interactive data visualization is a usefull tool to know the cost of living in ome cities in France.
+We can choose to compare prices of groceries, housing or fun and shpping with the three buttons on the left, then,
+we can click on a city to emphasize the line chart of this city.
+The line chart represents the price (y axis) of some products (x axis).
+hovering on the little circles of the line chart will show you the price of the selected product  for the selected country.
+Why a line chart?
+Having a descrete number of products, 5 or 6, the line chart does not appear to be the right choice to visualize this data.
+But the strength of the line chart is that it links the dots of the same country, showing us if a city has a general cost of living
+higher or lower than the other cities. For example we can easily see that the cost of life in Nice is higher than in Brest.
